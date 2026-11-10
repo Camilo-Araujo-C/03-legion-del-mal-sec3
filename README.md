@@ -5,7 +5,7 @@
 ![Release](https://img.shields.io/github/v/release/Camilo-Araujo-C/03-legion-del-mal-sec3)
 ![Issues](https://img.shields.io/github/issues/Camilo-Araujo-C/03-legion-del-mal-sec3)
 ![Último commit](https://img.shields.io/github/last-commit/Camilo-Araujo-C/03-legion-del-mal-sec3)
-![Licencia](https://img.shields.io/github/license/Camilo-Araujo-C/03-legion-del-mal-sec3)
+![Licencia](https://img.shields.io/github/license/Camilo-Araujo-C/03-legion-del-mal-sec3?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
