@@ -1,3 +1,12 @@
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-green)
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/Camilo-Araujo-C/03-legion-del-mal-sec3/ci.yml)
+![Release](https://img.shields.io/github/v/release/Camilo-Araujo-C/03-legion-del-mal-sec3)
+![Issues](https://img.shields.io/github/issues/Camilo-Araujo-C/03-legion-del-mal-sec3)
+![Último commit](https://img.shields.io/github/last-commit/Camilo-Araujo-C/03-legion-del-mal-sec3)
+![Licencia](https://img.shields.io/github/license/Camilo-Araujo-C/03-legion-del-mal-sec3)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
